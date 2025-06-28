@@ -1,5 +1,5 @@
 {
-	"name": "portfolio",
+	"name": "svelte-template",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
@@ -30,7 +30,13 @@
 		"typescript": "latest",
 		"typescript-eslint": "latest",
 		"vite": "latest",
-		"vite-plugin-devtools-json": "latest"
+		"the-new-css-reset": "latest",
+		"postcss": "latest",
+		"postcss-nested": "latest",
+		"autoprefixer": "latest",
+		"vite-plugin-devtools-json": "latest",
+		"cssnano": "^5",
+		"cssnano-preset-advanced": "^5"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
